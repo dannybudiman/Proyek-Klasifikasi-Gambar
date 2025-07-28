@@ -3,18 +3,17 @@ Proyek klasifikasi gambar ini merupakan proyek akhir pada kelas "Belajar Fundame
 
 ## Deskripsi Proyek
 
-Proyek ini merupakan implementasi klasifikasi gambar sederhana yang bertujuan untuk mengenali gambar-gambar yang menggambarkan tangan dalam bentuk batu (rock), kertas (paper), atau gunting (scissors). Tujuan proyek ini adalah untuk membangun model pembelajaran mesin yang dapat memprediksi kategori gambar berdasarkan dataset gambar tangan tersebut.
+Proyek ini merupakan implementasi klasifikasi gambar sederhana yang bertujuan untuk mengenali gambar-gambar bunga (5 Flower Types Classification Dataset). Tujuan proyek ini adalah untuk membangun model pembelajaran mesin yang dapat memprediksi kategori gambar.
 
 ## Dataset
 
-Dataset yang digunakan dalam proyek ini terdiri dari gambar-gambar tangan yang menggambarkan batu, kertas, dan gunting. Dataset ini dapat didownload melalui [Link Dataset](https://github.com/dicodingacademy/assets/releases/download/release/rockpaperscissors.zip).
+Dataset yang digunakan dalam proyek ini terdiri dari gambar-gambar bunga yg di host di Kaggle. Dataset ini dapat didownload melalui https://www.kaggle.com/datasets/kausthubkannan/5-flower-types-classification-dataset?resource=download
 
 ## Cara Penggunaan
 
-1. Unduh dataset dari [Link Dataset](https://github.com/dicodingacademy/assets/releases/download/release/rockpaperscissors.zip).
-2. Buka notebook Jupyter yang telah disediakan untuk langkah-langkah analisis dan pelatihan model.
+1. Unduh dataset dari https://www.kaggle.com/datasets/kausthubkannan/5-flower-types-classification-dataset?resource=download
+2. Buka google colab.
 3. Ikuti petunjuk dalam notebook untuk melaksanakan langkah-langkah proyek.
 
 ---
 
-Terima kasih telah mengunjungi proyek ini. Semoga proyek ini berguna dan bermanfaat 🚀👩‍🚀
